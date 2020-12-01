@@ -1,0 +1,18 @@
+{
+  "API-keys": {
+    "weather": "64225b47ab11bf4d7d3fcfb1c76e9f54",
+    "news": "9120fab7866a42f3a2a4d25cafec56c9"
+  },
+  "settings": {
+    "weather_city" : "London",
+    "notification_time" : "16",
+    "news_sources" : "bbc-news",
+    "article_number" : 3
+  },
+  "cases_and_deaths" : {
+    "date": "date",
+    "areaName": "areaName",
+    "newCasesByPublishDate": "newCasesByPublishDate",
+    "cumCasesByPublishDate": "cumCasesByPublishDate"
+}
+}
