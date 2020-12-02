@@ -1,7 +1,7 @@
 {
   "API-keys": {
-    "weather": "64225b47ab11bf4d7d3fcfb1c76e9f54",
-    "news": "9120fab7866a42f3a2a4d25cafec56c9"
+    "weather": "<Weather-API-Here>",
+    "news": "<News-API-Here>"
   },
   "settings": {
     "weather_city" : "London",
