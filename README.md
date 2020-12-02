@@ -38,6 +38,7 @@ A log file can be viewed at `pysys.log`, and a config file at `config.json`.
 ## Changing Config
 The `config.json` file provided can and should be edited by the user. One must insert their
  respective API keys under the `"API-keys"` as indicated, for weather and news updates.
+ Ensure the API-key only is in quotes, as such, "123456789", not "<123456789>".
  
  Additionally, under the `"settings"` section, one can alter various options. 
  
